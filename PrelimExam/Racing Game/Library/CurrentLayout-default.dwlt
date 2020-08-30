@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 35
+  controlID: 34
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 36
+  controlID: 35
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 37
+  controlID: 36
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -396,9 +396,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 16.247776, y: 15.562794, z: -102.36872}
+    m_Target: {x: 265.32272, y: 155.75562, z: -203.72104}
     speed: 2
-    m_Value: {x: 16.247776, y: 15.562794, z: -102.36872}
+    m_Value: {x: 265.32272, y: 155.75562, z: -203.72104}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -445,13 +445,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.16396022, y: 0.68177617, z: -0.16094553, w: 0.6945465}
+    m_Target: {x: 0.027820162, y: 0.0036181954, z: -0.000100369594, w: 0.9996066}
     speed: 2
-    m_Value: {x: 0.16396022, y: 0.68177617, z: -0.16094553, w: 0.6945465}
+    m_Value: {x: 0.027820155, y: 0.0036181945, z: -0.00010036957, w: 0.9996064}
   m_Size:
-    m_Target: 93.43132
+    m_Target: 132.92154
     speed: 2
-    m_Value: 93.43132
+    m_Value: 132.92154
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -506,7 +506,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 60fbffff62fbffffea370000fa370000
+      m_ExpandedIDs: 
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -682,20 +682,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/josephblaisel.atensor/Desktop/Racing Game
+  m_LastProjectPath: /Users/josephblaisel.atensor/Desktop/EMC132P/PrelimExam/Racing
+    Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 46}
-    m_SelectedIDs: 8c3a0000
-    m_LastClickedID: 14988
+    m_SelectedIDs: 723a0000
+    m_LastClickedID: 14962
     m_ExpandedIDs: 00000000723a0000743a0000763a0000783a00007a3a00007c3a00007e3a0000803a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0

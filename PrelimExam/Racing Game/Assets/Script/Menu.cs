@@ -6,13 +6,15 @@ using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour
 {
-   public void Play()
+   public void Play() // to load the scene 
    {
        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
        
    }
 
-   public void Quit()
+   
+
+   public void Quit() // for quiting the application once it is build.
    {
        Debug.Log("QUIT");
        Application.Quit();
